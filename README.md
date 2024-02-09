@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Tanatswa Dendere
-- 👀 I’m interested in software development/engineering
-- 🎓 I'm a BSc Computer Science student
-- 🌱 I’m currently learning React
+- 👩🏾‍💻 I’m a Front-End Developer Intern
+- 🎓 I'm a BSc Computer Science graduate 
+- 🌱 I’m currently learning the fundamentals of Web :)
 - 📫 How to reach me: 
 - Email: tanadendere@gmail.com
 - LinkedIn: www.linkedin.com/in/tanadendere
