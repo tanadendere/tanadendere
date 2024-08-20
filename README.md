@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tanatswa Dendere
 - 👩🏾‍💻 I’m a Front-End Developer
-- 🎓 I'm a BSc Honours Computer Science graduate 
+- 🎓 I hold a BSc Honours Degree in Computer Science.
 - 📫 How to reach me: 
 - Email: tanadendere@gmail.com
 - LinkedIn: www.linkedin.com/in/tanadendere
